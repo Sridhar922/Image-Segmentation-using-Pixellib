@@ -3,9 +3,9 @@
 PixelLib pytorch version supports python version 3.7 and above
 PixelLib Pytorch version supports these versions of pytorch(1.6.0, 1.7.1,1.8.0 and 1.9.0)
 
-# Install Pycocotools --- pip3 install pycocotools
-# Install PixelLib ---  pip3 install pixellib
-# tensorflow's version (2.0 - 2.4.1)
+### Install Pycocotools --- pip3 install pycocotools
+### Install PixelLib ---  pip3 install pixellib
+### tensorflow's version (2.0 - 2.4.1)
 
 PixelLib uses five lines of python code
 
