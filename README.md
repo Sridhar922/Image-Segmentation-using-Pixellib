@@ -5,7 +5,7 @@ PixelLib Pytorch version supports these versions of pytorch(1.6.0, 1.7.1,1.8.0 a
 
 ### Install Pycocotools --- pip3 install pycocotools
 ### Install PixelLib ---  pip3 install pixellib
-### tensorflow's version (2.0 - 2.4.1)
+### Tensorflow's Version (2.0 - 2.4.1)
 
 PixelLib uses five lines of python code
 
@@ -24,5 +24,12 @@ show_bbox: This is an optional parameter to show the segmented results with boun
 output_image_name: This is the name of the saved segmented image. 
 
 # Load Model:-
+
 Mask R CNN 2.0 file link (https://github.com/matterport/Mask_RCNN/releases/tag/v2.0)
+
 Pointrend_resnet (https://github.com/ayoolaolafenwa/PixelLib/releases/download/0.2.0/pointrend_resnet50.pkl)
+
+![sample4](https://github.com/Sridhar922/Image-Segmentation-using-Pixellib/assets/122592164/700bf8c3-a648-4ecd-a7ae-6ad3128d5d63)
+
+![sample4_output2](https://github.com/Sridhar922/Image-Segmentation-using-Pixellib/assets/122592164/86bd85e3-38c2-4730-8a45-36d4602bb2c8)
+
