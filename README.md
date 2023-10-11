@@ -33,3 +33,10 @@ Pointrend_resnet (https://github.com/ayoolaolafenwa/PixelLib/releases/download/0
 
 ![sample4_output2](https://github.com/Sridhar922/Image-Segmentation-using-Pixellib/assets/122592164/86bd85e3-38c2-4730-8a45-36d4602bb2c8)
 
+![cafe](https://github.com/Sridhar922/Image-Segmentation-using-Pixellib/assets/122592164/da0dd562-2299-45ce-8311-762b4036c681)
+
+![cafe_output](https://github.com/Sridhar922/Image-Segmentation-using-Pixellib/assets/122592164/7610e2e0-9c43-400d-ae3f-62a255fc3c82)
+
+![walk](https://github.com/Sridhar922/Image-Segmentation-using-Pixellib/assets/122592164/fc83a614-dff8-4cb3-87b2-32940d629d3a)
+
+![walk_output](https://github.com/Sridhar922/Image-Segmentation-using-Pixellib/assets/122592164/3d5c42d6-41a7-49aa-b1b2-58ddaa7cc30b)
